@@ -1,0 +1,16 @@
+{
+    "zones": [
+        {
+            "name": "Mumbai",
+            "status": "Green"
+        },
+        {
+            "name": "Thane",
+            "status": "Yellow"
+        },
+        {
+            "name": "Navi Mumbai",
+            "status": "Red"
+        }
+    ]
+}
